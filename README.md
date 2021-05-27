@@ -2,7 +2,7 @@
 ## The official API to communitate with the [Blabbr website](blabbr.xyz)
 
 ### Get Started!
-#### First, you have to import the api, you can either download it from our [github repository]()
+#### First, you have to import the api, you can either download it from our [github repository](https://github.com/TeamBlabbr/Blabbr-API/blob/main/index.js)
 
 ##### or
 
